@@ -1,4 +1,4 @@
-# 🎯 Face Attendance App
+# 🎯 AJAY Attendance App
 
 <div align="center">
 
