@@ -1,0 +1,13 @@
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\config\DataMigrationRunner.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\controller\AttendanceController.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\model\Student.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\repository\AttendanceRecordRepository.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\model\AttendanceRecord.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\service\FileStorageService.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\FaceAttendanceBackendApplication.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\dto\StudentDTO.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\dto\AttendanceDTO.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\service\FaceRecognitionService.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\config\CorsConfig.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\repository\StudentRepository.java
+C:\d disk\face_attendance_app\backend-java\src\main\java\com\faceattendance\controller\MigrationController.java
